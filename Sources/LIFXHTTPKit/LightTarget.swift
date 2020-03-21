@@ -190,14 +190,14 @@ public class LightTarget {
 		}
 		
 		let states: [State]
-		if let index = client.scenes.index(where: { $0.toSelector() == selector }) {
+		if let index = client.scenes.firstIndex(where: { $0.toSelector() == selector }) {
 			states = client.scenes[index].states
 		} else {
 			states = []
 		}
 		let oldLights = lights
 		let newLights = oldLights.map { (light) -> Light in
-			if let index = states.index(where: { $0.selector == light.toSelector() }) {
+			if let index = states.firstIndex(where: { $0.selector == light.toSelector() }) {
 				let state = states[index]
 				let brightness = state.brightness ?? light.brightness
 				let color = state.color ?? light.color
@@ -214,7 +214,7 @@ public class LightTarget {
 				var newLights = strongSelf.lightsByDeterminingConnectivityWithResults(strongSelf.lights, results: results)
 				if error != nil {
 					newLights = newLights.map { (newLight) -> Light in
-						if let index = oldLights.index(where: { $0.id == newLight.id }) {
+						if let index = oldLights.firstIndex(where: { $0.id == newLight.id }) {
 							let oldLight = oldLights[index]
 							return oldLight.lightWithProperties(connected: newLight.connected)
 						} else {
@@ -382,7 +382,7 @@ public class LightTarget {
 				return ""
 			}
 		case .SceneID:
-			if let index = client.scenes.index(where: { $0.toSelector() == selector }) {
+			if let index = client.scenes.firstIndex(where: { $0.toSelector() == selector }) {
 				return client.scenes[index].name
 			} else {
 				return ""

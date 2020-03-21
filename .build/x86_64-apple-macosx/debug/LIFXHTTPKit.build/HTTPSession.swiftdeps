@@ -30,7 +30,6 @@ depends-top-level:
 - "Int"
 - "IntegerLiteralType"
 - !private "JSONSerialization"
-- "LIFXHTTPKitVersionNumber"
 - "Light"
 - !private "LightTargetSelector"
 - !private "Location"
@@ -208,7 +207,6 @@ depends-member:
 - !private ["11LIFXHTTPKit11HTTPSessionC", "HTTPURLResponse"]
 - ["11LIFXHTTPKit11HTTPSessionC", "Int"]
 - !private ["11LIFXHTTPKit11HTTPSessionC", "JSONSerialization"]
-- ["11LIFXHTTPKit11HTTPSessionC", "LIFXHTTPKitVersionNumber"]
 - ["11LIFXHTTPKit11HTTPSessionC", "Light"]
 - !private ["11LIFXHTTPKit11HTTPSessionC", "LightTargetSelector"]
 - !private ["11LIFXHTTPKit11HTTPSessionC", "Location"]
@@ -244,6 +242,7 @@ depends-member:
 - ["11LIFXHTTPKit11HTTPSessionC", "setLightsPower"]
 - ["11LIFXHTTPKit11HTTPSessionC", "setLightsState"]
 - ["11LIFXHTTPKit11HTTPSessionC", "setScenesActivate"]
+- ["11LIFXHTTPKit11HTTPSessionC", "tempLIFXHTTPKitVersionNumber"]
 - !private ["11LIFXHTTPKit11HTTPSessionC", "validateResponseWithExpectedStatusCodes"]
 - !private ["So17NSHTTPURLResponseC", "statusCode"]
 - !private ["SH", "addDependency"]
@@ -514,9 +513,13 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Combine.framework/Modules/Combine.swiftmodule/x86_64-apple-macos.swiftinterface"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Combine.swiftmodule/x86_64-apple-macos.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-macos.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
@@ -528,4 +531,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "20126e46d91aa507df92c0a49be12571"
+interface-hash: "a1d921322f94d6c4b33d61a5c89988cf"

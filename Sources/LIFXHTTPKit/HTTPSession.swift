@@ -6,8 +6,10 @@
 import Foundation
 
 public class HTTPSession {
+	
+	public static let tempLIFXHTTPKitVersionNumber: Double = 2.0
 	public static let defaultBaseURL: URL = URL(string: "https://api.lifx.com/v1/")!
-	public static let defaultUserAgent: String = "LIFXHTTPKit/\(LIFXHTTPKitVersionNumber)"
+	public static let defaultUserAgent: String = "LIFXHTTPKit/\(tempLIFXHTTPKitVersionNumber)"
 	public static let defaultTimeout: TimeInterval = 5.0
 	
 	public let baseURL: URL
