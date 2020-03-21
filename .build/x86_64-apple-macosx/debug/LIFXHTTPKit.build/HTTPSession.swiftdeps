@@ -1,0 +1,531 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "HTTPSession"
+provides-nominal:
+- "11LIFXHTTPKit11HTTPSessionC"
+provides-member:
+- ["11LIFXHTTPKit11HTTPSessionC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "=="
+- !private "??"
+- !private "AnyObject"
+- "AssignmentPrecedence"
+- "Bool"
+- "CastingPrecedence"
+- !private "Color"
+- "Data"
+- !private "Date"
+- "DispatchQueue"
+- "Double"
+- "Error"
+- "Float"
+- "FloatLiteralType"
+- "Foundation"
+- !private "Group"
+- !private "HTTPKitError"
+- !private "HTTPOperation"
+- "HTTPSession"
+- !private "HTTPURLResponse"
+- "Int"
+- "IntegerLiteralType"
+- !private "JSONSerialization"
+- "LIFXHTTPKitVersionNumber"
+- "Light"
+- !private "LightTargetSelector"
+- !private "Location"
+- !private "NSDictionary"
+- "OperationQueue"
+- !private "ProductInformation"
+- "Result"
+- "Scene"
+- !private "State"
+- "String"
+- "StringLiteralType"
+- "TernaryPrecedence"
+- "TimeInterval"
+- "URL"
+- "URLRequest"
+- "URLResponse"
+- !private "URLSessionConfiguration"
+- "Void"
+- !private "print"
+- !private "~="
+depends-member:
+- !private ["Sa", "append"]
+- !private ["Sa", "contains"]
+- !private ["Sa", "first"]
+- !private ["SK", "append"]
+- !private ["SK", "contains"]
+- !private ["SK", "first"]
+- !private ["s7CVarArgP", "addDependency"]
+- !private ["s7CVarArgP", "addOperation"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "contains"]
+- !private ["s7CVarArgP", "data"]
+- !private ["s7CVarArgP", "default"]
+- !private ["s7CVarArgP", "first"]
+- !private ["s7CVarArgP", "httpAdditionalHeaders"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "jsonObject"]
+- !private ["s7CVarArgP", "maxConcurrentOperationCount"]
+- !private ["s7CVarArgP", "operations"]
+- !private ["s7CVarArgP", "statusCode"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "timeoutIntervalForRequest"]
+- !private ["Sl", "append"]
+- !private ["Sl", "contains"]
+- !private ["Sl", "first"]
+- !private ["Sl", "subscript"]
+- !private ["11LIFXHTTPKit5ColorV", "init"]
+- !private ["SL", "init"]
+- !private ["10Foundation15ContiguousBytesP", "append"]
+- !private ["10Foundation15ContiguousBytesP", "contains"]
+- !private ["10Foundation15ContiguousBytesP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "addDependency"]
+- !private ["s28CustomDebugStringConvertibleP", "addOperation"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "appendingPathComponent"]
+- !private ["s28CustomDebugStringConvertibleP", "contains"]
+- !private ["s28CustomDebugStringConvertibleP", "data"]
+- !private ["s28CustomDebugStringConvertibleP", "default"]
+- !private ["s28CustomDebugStringConvertibleP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "httpAdditionalHeaders"]
+- !private ["s28CustomDebugStringConvertibleP", "httpBody"]
+- !private ["s28CustomDebugStringConvertibleP", "httpMethod"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "jsonObject"]
+- !private ["s28CustomDebugStringConvertibleP", "maxConcurrentOperationCount"]
+- !private ["s28CustomDebugStringConvertibleP", "operations"]
+- !private ["s28CustomDebugStringConvertibleP", "setValue"]
+- !private ["s28CustomDebugStringConvertibleP", "statusCode"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "timeoutIntervalForRequest"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "contains"]
+- !private ["s17CustomReflectableP", "first"]
+- !private ["s17CustomReflectableP", "httpBody"]
+- !private ["s17CustomReflectableP", "httpMethod"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "setValue"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "Status"]
+- !private ["s23CustomStringConvertibleP", "addDependency"]
+- !private ["s23CustomStringConvertibleP", "addOperation"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- ["s23CustomStringConvertibleP", "appendInterpolation"]
+- ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "appendingPathComponent"]
+- !private ["s23CustomStringConvertibleP", "contains"]
+- !private ["s23CustomStringConvertibleP", "data"]
+- !private ["s23CustomStringConvertibleP", "default"]
+- !private ["s23CustomStringConvertibleP", "first"]
+- !private ["s23CustomStringConvertibleP", "httpAdditionalHeaders"]
+- !private ["s23CustomStringConvertibleP", "httpBody"]
+- !private ["s23CustomStringConvertibleP", "httpMethod"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "jsonObject"]
+- !private ["s23CustomStringConvertibleP", "maxConcurrentOperationCount"]
+- !private ["s23CustomStringConvertibleP", "operations"]
+- !private ["s23CustomStringConvertibleP", "setValue"]
+- !private ["s23CustomStringConvertibleP", "statusCode"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "timeoutIntervalForRequest"]
+- !private ["10Foundation12DataProtocolP", "append"]
+- !private ["10Foundation12DataProtocolP", "contains"]
+- !private ["10Foundation12DataProtocolP", "first"]
+- !private ["10Foundation4DateV", "init"]
+- !private ["Se", "append"]
+- !private ["Se", "appendingPathComponent"]
+- !private ["Se", "contains"]
+- !private ["Se", "first"]
+- ["Se", "init"]
+- !private ["Se", "subscript"]
+- ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SD", "subscript"]
+- !private ["So18OS_dispatch_objectC", "init"]
+- !private ["So17OS_dispatch_queueC", "init"]
+- !private ["SE", "append"]
+- !private ["SE", "appendingPathComponent"]
+- !private ["SE", "contains"]
+- !private ["SE", "first"]
+- ["SE", "init"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "Status"]
+- !private ["SQ", "addDependency"]
+- !private ["SQ", "addOperation"]
+- !private ["SQ", "append"]
+- !private ["SQ", "appendingPathComponent"]
+- !private ["SQ", "contains"]
+- !private ["SQ", "data"]
+- !private ["SQ", "default"]
+- !private ["SQ", "first"]
+- !private ["SQ", "forbidden"]
+- !private ["SQ", "httpAdditionalHeaders"]
+- !private ["SQ", "httpBody"]
+- !private ["SQ", "httpMethod"]
+- ["SQ", "init"]
+- !private ["SQ", "jsonInvalid"]
+- !private ["SQ", "jsonObject"]
+- !private ["SQ", "maxConcurrentOperationCount"]
+- !private ["SQ", "operations"]
+- !private ["SQ", "setValue"]
+- !private ["SQ", "statusCode"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "timeoutIntervalForRequest"]
+- !private ["SQ", "tooManyRequests"]
+- !private ["SQ", "unauthorized"]
+- !private ["SQ", "unexpectedHTTPStatusCode"]
+- !private ["s5ErrorP", "init"]
+- !private ["11LIFXHTTPKit9ErrorCodeO", "forbidden"]
+- !private ["11LIFXHTTPKit9ErrorCodeO", "jsonInvalid"]
+- !private ["11LIFXHTTPKit9ErrorCodeO", "tooManyRequests"]
+- !private ["11LIFXHTTPKit9ErrorCodeO", "unauthorized"]
+- !private ["11LIFXHTTPKit9ErrorCodeO", "unexpectedHTTPStatusCode"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "contains"]
+- !private ["s25ExpressibleByArrayLiteralP", "first"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["11LIFXHTTPKit5GroupV", "init"]
+- !private ["11LIFXHTTPKit12HTTPKitErrorV", "deinit"]
+- !private ["11LIFXHTTPKit12HTTPKitErrorV", "init"]
+- !private ["11LIFXHTTPKit13HTTPOperationC", "init"]
+- !private ["11LIFXHTTPKit11HTTPSessionC", "AnyObject"]
+- ["11LIFXHTTPKit11HTTPSessionC", "Bool"]
+- !private ["11LIFXHTTPKit11HTTPSessionC", "Color"]
+- ["11LIFXHTTPKit11HTTPSessionC", "Data"]
+- !private ["11LIFXHTTPKit11HTTPSessionC", "Date"]
+- ["11LIFXHTTPKit11HTTPSessionC", "DispatchQueue"]
+- ["11LIFXHTTPKit11HTTPSessionC", "Double"]
+- ["11LIFXHTTPKit11HTTPSessionC", "Error"]
+- ["11LIFXHTTPKit11HTTPSessionC", "Float"]
+- ["11LIFXHTTPKit11HTTPSessionC", "Foundation"]
+- !private ["11LIFXHTTPKit11HTTPSessionC", "Group"]
+- !private ["11LIFXHTTPKit11HTTPSessionC", "HTTPKitError"]
+- !private ["11LIFXHTTPKit11HTTPSessionC", "HTTPOperation"]
+- !private ["11LIFXHTTPKit11HTTPSessionC", "HTTPSession"]
+- !private ["11LIFXHTTPKit11HTTPSessionC", "HTTPURLResponse"]
+- ["11LIFXHTTPKit11HTTPSessionC", "Int"]
+- !private ["11LIFXHTTPKit11HTTPSessionC", "JSONSerialization"]
+- ["11LIFXHTTPKit11HTTPSessionC", "LIFXHTTPKitVersionNumber"]
+- ["11LIFXHTTPKit11HTTPSessionC", "Light"]
+- !private ["11LIFXHTTPKit11HTTPSessionC", "LightTargetSelector"]
+- !private ["11LIFXHTTPKit11HTTPSessionC", "Location"]
+- !private ["11LIFXHTTPKit11HTTPSessionC", "NSDictionary"]
+- ["11LIFXHTTPKit11HTTPSessionC", "OperationQueue"]
+- !private ["11LIFXHTTPKit11HTTPSessionC", "ProductInformation"]
+- ["11LIFXHTTPKit11HTTPSessionC", "Result"]
+- ["11LIFXHTTPKit11HTTPSessionC", "Scene"]
+- !private ["11LIFXHTTPKit11HTTPSessionC", "State"]
+- ["11LIFXHTTPKit11HTTPSessionC", "String"]
+- ["11LIFXHTTPKit11HTTPSessionC", "TimeInterval"]
+- ["11LIFXHTTPKit11HTTPSessionC", "URL"]
+- ["11LIFXHTTPKit11HTTPSessionC", "URLRequest"]
+- ["11LIFXHTTPKit11HTTPSessionC", "URLResponse"]
+- ["11LIFXHTTPKit11HTTPSessionC", "URLSession"]
+- !private ["11LIFXHTTPKit11HTTPSessionC", "URLSessionConfiguration"]
+- ["11LIFXHTTPKit11HTTPSessionC", "Void"]
+- !private ["11LIFXHTTPKit11HTTPSessionC", "addOperationWithRequest"]
+- ["11LIFXHTTPKit11HTTPSessionC", "baseURL"]
+- !private ["11LIFXHTTPKit11HTTPSessionC", "dataToLights"]
+- !private ["11LIFXHTTPKit11HTTPSessionC", "dataToResults"]
+- !private ["11LIFXHTTPKit11HTTPSessionC", "dataToScenes"]
+- ["11LIFXHTTPKit11HTTPSessionC", "defaultBaseURL"]
+- ["11LIFXHTTPKit11HTTPSessionC", "defaultTimeout"]
+- ["11LIFXHTTPKit11HTTPSessionC", "defaultUserAgent"]
+- ["11LIFXHTTPKit11HTTPSessionC", "delegateQueue"]
+- ["11LIFXHTTPKit11HTTPSessionC", "init"]
+- ["11LIFXHTTPKit11HTTPSessionC", "lights"]
+- !private ["11LIFXHTTPKit11HTTPSessionC", "operationQueue"]
+- !private ["11LIFXHTTPKit11HTTPSessionC", "print"]
+- ["11LIFXHTTPKit11HTTPSessionC", "scenes"]
+- ["11LIFXHTTPKit11HTTPSessionC", "setLightsColor"]
+- ["11LIFXHTTPKit11HTTPSessionC", "setLightsPower"]
+- ["11LIFXHTTPKit11HTTPSessionC", "setLightsState"]
+- ["11LIFXHTTPKit11HTTPSessionC", "setScenesActivate"]
+- !private ["11LIFXHTTPKit11HTTPSessionC", "validateResponseWithExpectedStatusCodes"]
+- !private ["So17NSHTTPURLResponseC", "statusCode"]
+- !private ["SH", "addDependency"]
+- !private ["SH", "addOperation"]
+- !private ["SH", "append"]
+- !private ["SH", "appendingPathComponent"]
+- !private ["SH", "contains"]
+- !private ["SH", "data"]
+- !private ["SH", "default"]
+- !private ["SH", "first"]
+- !private ["SH", "forbidden"]
+- !private ["SH", "httpAdditionalHeaders"]
+- !private ["SH", "httpBody"]
+- !private ["SH", "httpMethod"]
+- ["SH", "init"]
+- !private ["SH", "jsonInvalid"]
+- !private ["SH", "jsonObject"]
+- !private ["SH", "maxConcurrentOperationCount"]
+- !private ["SH", "operations"]
+- !private ["SH", "setValue"]
+- !private ["SH", "statusCode"]
+- !private ["SH", "subscript"]
+- !private ["SH", "timeoutIntervalForRequest"]
+- !private ["SH", "tooManyRequests"]
+- !private ["SH", "unauthorized"]
+- !private ["SH", "unexpectedHTTPStatusCode"]
+- !private ["So19NSJSONSerializationC", "data"]
+- !private ["So19NSJSONSerializationC", "jsonObject"]
+- !private ["11LIFXHTTPKit5LightV", "init"]
+- !private ["11LIFXHTTPKit19LightTargetSelectorV", "init"]
+- !private ["11LIFXHTTPKit8LocationV", "init"]
+- !private ["SM", "append"]
+- !private ["SM", "contains"]
+- !private ["SM", "first"]
+- !private ["10Foundation19MutableDataProtocolP", "append"]
+- !private ["10Foundation19MutableDataProtocolP", "contains"]
+- !private ["10Foundation19MutableDataProtocolP", "first"]
+- !private ["So8NSCodingP", "statusCode"]
+- !private ["So8NSCodingP", "subscript"]
+- !private ["So9NSCopyingP", "default"]
+- !private ["So9NSCopyingP", "httpAdditionalHeaders"]
+- !private ["So9NSCopyingP", "statusCode"]
+- !private ["So9NSCopyingP", "subscript"]
+- !private ["So9NSCopyingP", "timeoutIntervalForRequest"]
+- !private ["So12NSDictionaryC", "subscript"]
+- !private ["So17NSFastEnumerationP", "subscript"]
+- !private ["So16NSMutableCopyingP", "subscript"]
+- !private ["So8NSObjectC", "addDependency"]
+- !private ["So8NSObjectC", "addOperation"]
+- !private ["So8NSObjectC", "data"]
+- !private ["So8NSObjectC", "default"]
+- !private ["So8NSObjectC", "httpAdditionalHeaders"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "jsonObject"]
+- !private ["So8NSObjectC", "maxConcurrentOperationCount"]
+- !private ["So8NSObjectC", "operations"]
+- !private ["So8NSObjectC", "statusCode"]
+- !private ["So8NSObjectC", "subscript"]
+- !private ["So8NSObjectC", "timeoutIntervalForRequest"]
+- !private ["So8NSObjectP", "addDependency"]
+- !private ["So8NSObjectP", "addOperation"]
+- !private ["So8NSObjectP", "data"]
+- !private ["So8NSObjectP", "default"]
+- !private ["So8NSObjectP", "httpAdditionalHeaders"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "jsonObject"]
+- !private ["So8NSObjectP", "maxConcurrentOperationCount"]
+- !private ["So8NSObjectP", "operations"]
+- !private ["So8NSObjectP", "statusCode"]
+- !private ["So8NSObjectP", "subscript"]
+- !private ["So8NSObjectP", "timeoutIntervalForRequest"]
+- !private ["So14NSSecureCodingP", "statusCode"]
+- !private ["So14NSSecureCodingP", "subscript"]
+- !private ["So9OS_objectC", "init"]
+- !private ["So11NSOperationC", "addDependency"]
+- !private ["So16NSOperationQueueC", "addOperation"]
+- !private ["So16NSOperationQueueC", "init"]
+- !private ["So16NSOperationQueueC", "maxConcurrentOperationCount"]
+- !private ["So16NSOperationQueueC", "operations"]
+- !private ["11LIFXHTTPKit18ProductInformationV", "init"]
+- !private ["So19NSProgressReportingP", "addOperation"]
+- !private ["So19NSProgressReportingP", "init"]
+- !private ["So19NSProgressReportingP", "maxConcurrentOperationCount"]
+- !private ["So19NSProgressReportingP", "operations"]
+- !private ["Sk", "append"]
+- !private ["Sk", "contains"]
+- !private ["Sk", "first"]
+- !private ["Sm", "append"]
+- !private ["Sm", "contains"]
+- !private ["Sm", "first"]
+- !private ["SY", "forbidden"]
+- !private ["SY", "init"]
+- !private ["SY", "jsonInvalid"]
+- !private ["SY", "tooManyRequests"]
+- !private ["SY", "unauthorized"]
+- !private ["SY", "unexpectedHTTPStatusCode"]
+- !private ["10Foundation20ReferenceConvertibleP", "appendingPathComponent"]
+- !private ["10Foundation20ReferenceConvertibleP", "httpBody"]
+- !private ["10Foundation20ReferenceConvertibleP", "httpMethod"]
+- ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "setValue"]
+- !private ["11LIFXHTTPKit6ResultV", "Status"]
+- !private ["11LIFXHTTPKit6ResultV", "init"]
+- !private ["11LIFXHTTPKit5SceneV", "init"]
+- !private ["7Combine9SchedulerP", "addOperation"]
+- !private ["7Combine9SchedulerP", "init"]
+- !private ["7Combine9SchedulerP", "maxConcurrentOperationCount"]
+- !private ["7Combine9SchedulerP", "operations"]
+- !private ["ST", "append"]
+- !private ["ST", "contains"]
+- !private ["ST", "first"]
+- !private ["ST", "subscript"]
+- !private ["11LIFXHTTPKit5StateV", "init"]
+- !private ["11LIFXHTTPKit6ResultV6StatusO", "deinit"]
+- !private ["11LIFXHTTPKit6ResultV6StatusO", "init"]
+- ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- ["s27StringInterpolationProtocolP", "appendLiteral"]
+- ["s16TextOutputStreamP", "appendInterpolation"]
+- ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["10Foundation3URLV", "appendingPathComponent"]
+- ["10Foundation3URLV", "init"]
+- !private ["10Foundation10URLRequestV", "httpBody"]
+- !private ["10Foundation10URLRequestV", "httpMethod"]
+- !private ["10Foundation10URLRequestV", "init"]
+- !private ["10Foundation10URLRequestV", "setValue"]
+- !private ["So13NSURLResponseC", "statusCode"]
+- !private ["So12NSURLSessionC", "init"]
+- !private ["So25NSURLSessionConfigurationC", "default"]
+- !private ["So25NSURLSessionConfigurationC", "httpAdditionalHeaders"]
+- !private ["So25NSURLSessionConfigurationC", "timeoutIntervalForRequest"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "contains"]
+- !private ["s14_ArrayProtocolP", "first"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "appendingPathComponent"]
+- ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "contains"]
+- !private ["s24_DestructorSafeContainerP", "first"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "appendingPathComponent"]
+- ["s34_ExpressibleByFileReferenceLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "append"]
+- !private ["s19_HasContiguousBytesP", "contains"]
+- !private ["s19_HasContiguousBytesP", "first"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "contains"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "first"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addDependency"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addOperation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "data"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "default"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "httpAdditionalHeaders"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "jsonObject"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "maxConcurrentOperationCount"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "operations"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "statusCode"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "timeoutIntervalForRequest"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "addDependency"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "addOperation"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "data"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "default"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "httpAdditionalHeaders"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "jsonObject"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "maxConcurrentOperationCount"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "operations"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "statusCode"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "subscript"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "timeoutIntervalForRequest"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "appendingPathComponent"]
+- !private ["s21_ObjectiveCBridgeableP", "contains"]
+- !private ["s21_ObjectiveCBridgeableP", "first"]
+- !private ["s21_ObjectiveCBridgeableP", "httpBody"]
+- !private ["s21_ObjectiveCBridgeableP", "httpMethod"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "setValue"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- !private "Sa"
+- !private "SK"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "11LIFXHTTPKit5ColorV"
+- !private "SL"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "10Foundation4DateV"
+- "Se"
+- "s26DefaultStringInterpolationV"
+- !private "SD"
+- !private "So18OS_dispatch_objectC"
+- !private "So17OS_dispatch_queueC"
+- "SE"
+- "SQ"
+- !private "s5ErrorP"
+- !private "11LIFXHTTPKit9ErrorCodeO"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "11LIFXHTTPKit5GroupV"
+- !private "11LIFXHTTPKit12HTTPKitErrorV"
+- !private "11LIFXHTTPKit13HTTPOperationC"
+- "11LIFXHTTPKit11HTTPSessionC"
+- !private "So17NSHTTPURLResponseC"
+- "SH"
+- !private "So19NSJSONSerializationC"
+- !private "11LIFXHTTPKit5LightV"
+- !private "11LIFXHTTPKit19LightTargetSelectorV"
+- !private "11LIFXHTTPKit8LocationV"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So12NSDictionaryC"
+- !private "So17NSFastEnumerationP"
+- !private "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So9OS_objectC"
+- !private "So11NSOperationC"
+- !private "So16NSOperationQueueC"
+- !private "11LIFXHTTPKit18ProductInformationV"
+- !private "So19NSProgressReportingP"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- "10Foundation20ReferenceConvertibleP"
+- !private "11LIFXHTTPKit6ResultV"
+- !private "11LIFXHTTPKit5SceneV"
+- !private "7Combine9SchedulerP"
+- !private "ST"
+- !private "11LIFXHTTPKit5StateV"
+- !private "11LIFXHTTPKit6ResultV6StatusO"
+- "s27StringInterpolationProtocolP"
+- "s16TextOutputStreamP"
+- "10Foundation3URLV"
+- !private "10Foundation10URLRequestV"
+- !private "So13NSURLResponseC"
+- !private "So12NSURLSessionC"
+- !private "So25NSURLSessionConfigurationC"
+- !private "s14_ArrayProtocolP"
+- "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- "s34_ExpressibleByFileReferenceLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/XPC.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/ObjectiveC.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Dispatch.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Darwin.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Foundation.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/CoreFoundation.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/CoreGraphics.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Swift.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/IOKit.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/SwiftOnoneSupport.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Combine.framework/Modules/Combine.swiftmodule/x86_64-apple-macos.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "20126e46d91aa507df92c0a49be12571"

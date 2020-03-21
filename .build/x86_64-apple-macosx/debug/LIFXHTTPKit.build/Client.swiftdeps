@@ -1,0 +1,382 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Client"
+provides-nominal:
+- "11LIFXHTTPKit6ClientC"
+provides-member:
+- ["11LIFXHTTPKit6ClientC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- !private "!="
+- !private "=="
+- !private "==="
+- !private "??"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "Client"
+- "ClientObserver"
+- !private "DispatchGroup"
+- "Error"
+- "HTTPSession"
+- "Light"
+- "LightTarget"
+- "LightTargetFilter"
+- "LightTargetSelector"
+- "Scene"
+- "String"
+- !private "StringLiteralType"
+- "Void"
+depends-member:
+- !private ["Sa", "append"]
+- !private ["Sa", "contains"]
+- !private ["Sa", "enumerated"]
+- !private ["Sa", "index"]
+- !private ["Sa", "remove"]
+- !private ["Sa", "subscript"]
+- !private ["SK", "append"]
+- !private ["SK", "contains"]
+- !private ["SK", "enumerated"]
+- !private ["SK", "index"]
+- !private ["SK", "remove"]
+- !private ["SK", "subscript"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "contains"]
+- !private ["s7CVarArgP", "enter"]
+- !private ["s7CVarArgP", "enumerated"]
+- !private ["s7CVarArgP", "index"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "leave"]
+- !private ["s7CVarArgP", "notify"]
+- !private ["s7CVarArgP", "remove"]
+- !private ["s7CVarArgP", "subscript"]
+- ["11LIFXHTTPKit6ClientC", "ClientObserver"]
+- !private ["11LIFXHTTPKit6ClientC", "DispatchGroup"]
+- ["11LIFXHTTPKit6ClientC", "Error"]
+- ["11LIFXHTTPKit6ClientC", "HTTPSession"]
+- ["11LIFXHTTPKit6ClientC", "Light"]
+- ["11LIFXHTTPKit6ClientC", "LightTarget"]
+- ["11LIFXHTTPKit6ClientC", "LightTargetFilter"]
+- ["11LIFXHTTPKit6ClientC", "LightTargetSelector"]
+- ["11LIFXHTTPKit6ClientC", "Scene"]
+- ["11LIFXHTTPKit6ClientC", "String"]
+- ["11LIFXHTTPKit6ClientC", "Void"]
+- ["11LIFXHTTPKit6ClientC", "addObserver"]
+- ["11LIFXHTTPKit6ClientC", "allLightTarget"]
+- ["11LIFXHTTPKit6ClientC", "fetch"]
+- ["11LIFXHTTPKit6ClientC", "fetchLights"]
+- ["11LIFXHTTPKit6ClientC", "fetchScenes"]
+- ["11LIFXHTTPKit6ClientC", "init"]
+- ["11LIFXHTTPKit6ClientC", "lightTargetWithSelector"]
+- ["11LIFXHTTPKit6ClientC", "lights"]
+- !private ["11LIFXHTTPKit6ClientC", "observers"]
+- ["11LIFXHTTPKit6ClientC", "removeObserver"]
+- ["11LIFXHTTPKit6ClientC", "scenes"]
+- !private ["11LIFXHTTPKit6ClientC", "selectorToFilter"]
+- ["11LIFXHTTPKit6ClientC", "session"]
+- ["11LIFXHTTPKit6ClientC", "updateLights"]
+- ["11LIFXHTTPKit14ClientObserverC", "LightsDidUpdate"]
+- !private ["11LIFXHTTPKit14ClientObserverC", "init"]
+- !private ["11LIFXHTTPKit14ClientObserverC", "lightsDidUpdateHandler"]
+- !private ["Sl", "append"]
+- !private ["Sl", "contains"]
+- !private ["Sl", "enumerated"]
+- !private ["Sl", "index"]
+- !private ["Sl", "remove"]
+- !private ["Sl", "subscript"]
+- !private ["10Foundation15ContiguousBytesP", "append"]
+- !private ["10Foundation15ContiguousBytesP", "contains"]
+- !private ["10Foundation15ContiguousBytesP", "enumerated"]
+- !private ["10Foundation15ContiguousBytesP", "index"]
+- !private ["10Foundation15ContiguousBytesP", "remove"]
+- !private ["10Foundation15ContiguousBytesP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "contains"]
+- !private ["s28CustomDebugStringConvertibleP", "enter"]
+- !private ["s28CustomDebugStringConvertibleP", "enumerated"]
+- !private ["s28CustomDebugStringConvertibleP", "index"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "leave"]
+- !private ["s28CustomDebugStringConvertibleP", "notify"]
+- !private ["s28CustomDebugStringConvertibleP", "remove"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "contains"]
+- !private ["s17CustomReflectableP", "enumerated"]
+- !private ["s17CustomReflectableP", "index"]
+- !private ["s17CustomReflectableP", "remove"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "contains"]
+- !private ["s23CustomStringConvertibleP", "enter"]
+- !private ["s23CustomStringConvertibleP", "enumerated"]
+- !private ["s23CustomStringConvertibleP", "group"]
+- !private ["s23CustomStringConvertibleP", "id"]
+- !private ["s23CustomStringConvertibleP", "index"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "label"]
+- !private ["s23CustomStringConvertibleP", "leave"]
+- !private ["s23CustomStringConvertibleP", "location"]
+- !private ["s23CustomStringConvertibleP", "notify"]
+- !private ["s23CustomStringConvertibleP", "remove"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "type"]
+- !private ["s23CustomStringConvertibleP", "value"]
+- !private ["10Foundation12DataProtocolP", "append"]
+- !private ["10Foundation12DataProtocolP", "contains"]
+- !private ["10Foundation12DataProtocolP", "enumerated"]
+- !private ["10Foundation12DataProtocolP", "index"]
+- !private ["10Foundation12DataProtocolP", "remove"]
+- !private ["10Foundation12DataProtocolP", "subscript"]
+- !private ["Se", "append"]
+- !private ["Se", "contains"]
+- !private ["Se", "enumerated"]
+- !private ["Se", "index"]
+- !private ["Se", "remove"]
+- !private ["Se", "subscript"]
+- !private ["So17OS_dispatch_groupC", "enter"]
+- !private ["So17OS_dispatch_groupC", "init"]
+- !private ["So17OS_dispatch_groupC", "leave"]
+- !private ["So17OS_dispatch_groupC", "notify"]
+- !private ["So18OS_dispatch_objectC", "enter"]
+- !private ["So18OS_dispatch_objectC", "init"]
+- !private ["So18OS_dispatch_objectC", "leave"]
+- !private ["So18OS_dispatch_objectC", "notify"]
+- !private ["SE", "append"]
+- !private ["SE", "contains"]
+- !private ["SE", "enumerated"]
+- !private ["SE", "index"]
+- !private ["SE", "remove"]
+- !private ["SE", "subscript"]
+- ["SQ", "All"]
+- ["SQ", "GroupID"]
+- ["SQ", "ID"]
+- ["SQ", "Label"]
+- ["SQ", "LocationID"]
+- ["SQ", "SceneID"]
+- !private ["SQ", "append"]
+- !private ["SQ", "contains"]
+- !private ["SQ", "enter"]
+- !private ["SQ", "enumerated"]
+- !private ["SQ", "group"]
+- !private ["SQ", "id"]
+- !private ["SQ", "index"]
+- !private ["SQ", "init"]
+- !private ["SQ", "label"]
+- !private ["SQ", "leave"]
+- !private ["SQ", "location"]
+- !private ["SQ", "notify"]
+- !private ["SQ", "remove"]
+- !private ["SQ", "selector"]
+- !private ["SQ", "states"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "toSelector"]
+- !private ["SQ", "type"]
+- !private ["SQ", "value"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "contains"]
+- !private ["s25ExpressibleByArrayLiteralP", "enumerated"]
+- !private ["s25ExpressibleByArrayLiteralP", "index"]
+- !private ["s25ExpressibleByArrayLiteralP", "remove"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["11LIFXHTTPKit5GroupV", "id"]
+- !private ["11LIFXHTTPKit11HTTPSessionC", "delegateQueue"]
+- !private ["11LIFXHTTPKit11HTTPSessionC", "init"]
+- !private ["11LIFXHTTPKit11HTTPSessionC", "lights"]
+- !private ["11LIFXHTTPKit11HTTPSessionC", "scenes"]
+- ["SH", "All"]
+- ["SH", "GroupID"]
+- ["SH", "ID"]
+- ["SH", "Label"]
+- ["SH", "LocationID"]
+- ["SH", "SceneID"]
+- !private ["SH", "append"]
+- !private ["SH", "contains"]
+- !private ["SH", "enter"]
+- !private ["SH", "enumerated"]
+- !private ["SH", "index"]
+- !private ["SH", "init"]
+- !private ["SH", "leave"]
+- !private ["SH", "notify"]
+- !private ["SH", "remove"]
+- !private ["SH", "subscript"]
+- !private ["11LIFXHTTPKit5LightV", "deinit"]
+- !private ["11LIFXHTTPKit5LightV", "group"]
+- !private ["11LIFXHTTPKit5LightV", "id"]
+- !private ["11LIFXHTTPKit5LightV", "label"]
+- !private ["11LIFXHTTPKit5LightV", "location"]
+- !private ["11LIFXHTTPKit11LightTargetC", "init"]
+- !private ["11LIFXHTTPKit19LightTargetSelectorV", "init"]
+- !private ["11LIFXHTTPKit19LightTargetSelectorV", "type"]
+- !private ["11LIFXHTTPKit19LightTargetSelectorV", "value"]
+- ["11LIFXHTTPKit23LightTargetSelectorTypeO", "All"]
+- ["11LIFXHTTPKit23LightTargetSelectorTypeO", "GroupID"]
+- ["11LIFXHTTPKit23LightTargetSelectorTypeO", "ID"]
+- ["11LIFXHTTPKit23LightTargetSelectorTypeO", "Label"]
+- ["11LIFXHTTPKit23LightTargetSelectorTypeO", "LocationID"]
+- ["11LIFXHTTPKit23LightTargetSelectorTypeO", "SceneID"]
+- !private ["11LIFXHTTPKit8LocationV", "id"]
+- !private ["SM", "append"]
+- !private ["SM", "contains"]
+- !private ["SM", "enumerated"]
+- !private ["SM", "index"]
+- !private ["SM", "remove"]
+- !private ["SM", "subscript"]
+- !private ["10Foundation19MutableDataProtocolP", "append"]
+- !private ["10Foundation19MutableDataProtocolP", "contains"]
+- !private ["10Foundation19MutableDataProtocolP", "enumerated"]
+- !private ["10Foundation19MutableDataProtocolP", "index"]
+- !private ["10Foundation19MutableDataProtocolP", "remove"]
+- !private ["10Foundation19MutableDataProtocolP", "subscript"]
+- !private ["So8NSObjectC", "enter"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "leave"]
+- !private ["So8NSObjectC", "notify"]
+- !private ["So8NSObjectP", "enter"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "leave"]
+- !private ["So8NSObjectP", "notify"]
+- !private ["So9OS_objectC", "enter"]
+- !private ["So9OS_objectC", "init"]
+- !private ["So9OS_objectC", "leave"]
+- !private ["So9OS_objectC", "notify"]
+- !private ["Sk", "append"]
+- !private ["Sk", "contains"]
+- !private ["Sk", "enumerated"]
+- !private ["Sk", "index"]
+- !private ["Sk", "remove"]
+- !private ["Sk", "subscript"]
+- !private ["Sm", "append"]
+- !private ["Sm", "contains"]
+- !private ["Sm", "enumerated"]
+- !private ["Sm", "index"]
+- !private ["Sm", "remove"]
+- !private ["Sm", "subscript"]
+- ["SY", "All"]
+- ["SY", "GroupID"]
+- ["SY", "ID"]
+- ["SY", "Label"]
+- ["SY", "LocationID"]
+- ["SY", "SceneID"]
+- !private ["11LIFXHTTPKit5SceneV", "states"]
+- !private ["11LIFXHTTPKit5SceneV", "toSelector"]
+- !private ["ST", "append"]
+- !private ["ST", "contains"]
+- !private ["ST", "enumerated"]
+- !private ["ST", "index"]
+- !private ["ST", "remove"]
+- !private ["ST", "subscript"]
+- !private ["11LIFXHTTPKit5StateV", "deinit"]
+- !private ["11LIFXHTTPKit5StateV", "selector"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "contains"]
+- !private ["s14_ArrayProtocolP", "enumerated"]
+- !private ["s14_ArrayProtocolP", "index"]
+- !private ["s14_ArrayProtocolP", "remove"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "contains"]
+- !private ["s24_DestructorSafeContainerP", "enumerated"]
+- !private ["s24_DestructorSafeContainerP", "index"]
+- !private ["s24_DestructorSafeContainerP", "remove"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s19_HasContiguousBytesP", "append"]
+- !private ["s19_HasContiguousBytesP", "contains"]
+- !private ["s19_HasContiguousBytesP", "enumerated"]
+- !private ["s19_HasContiguousBytesP", "index"]
+- !private ["s19_HasContiguousBytesP", "remove"]
+- !private ["s19_HasContiguousBytesP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "contains"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "enumerated"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "index"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "remove"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "enter"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "leave"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "notify"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "enter"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "leave"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "notify"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "contains"]
+- !private ["s21_ObjectiveCBridgeableP", "enumerated"]
+- !private ["s21_ObjectiveCBridgeableP", "index"]
+- !private ["s21_ObjectiveCBridgeableP", "remove"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- !private "Sa"
+- !private "SK"
+- !private "s7CVarArgP"
+- "11LIFXHTTPKit6ClientC"
+- "11LIFXHTTPKit14ClientObserverC"
+- !private "Sl"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "So17OS_dispatch_groupC"
+- !private "So18OS_dispatch_objectC"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "11LIFXHTTPKit5GroupV"
+- !private "11LIFXHTTPKit11HTTPSessionC"
+- "SH"
+- !private "11LIFXHTTPKit5LightV"
+- !private "11LIFXHTTPKit11LightTargetC"
+- !private "11LIFXHTTPKit19LightTargetSelectorV"
+- "11LIFXHTTPKit23LightTargetSelectorTypeO"
+- !private "11LIFXHTTPKit8LocationV"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So9OS_objectC"
+- !private "Sk"
+- !private "Sm"
+- "SY"
+- !private "11LIFXHTTPKit5SceneV"
+- !private "ST"
+- !private "11LIFXHTTPKit5StateV"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/XPC.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/ObjectiveC.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Dispatch.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Darwin.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Foundation.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/CoreFoundation.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/CoreGraphics.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Swift.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/IOKit.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/SwiftOnoneSupport.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Combine.framework/Modules/Combine.swiftmodule/x86_64-apple-macos.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "165dae5a4caf45d074d313609b31a28c"

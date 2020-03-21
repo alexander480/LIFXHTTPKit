@@ -1,0 +1,772 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "LightTargetFilter"
+- "LightTarget"
+provides-nominal:
+- "11LIFXHTTPKit11LightTargetC"
+provides-member:
+- ["11LIFXHTTPKit11LightTargetC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- !private "!="
+- !private "*"
+- !private "*="
+- !private "+"
+- !private "+="
+- !private "/"
+- !private "<"
+- !private "=="
+- !private "==="
+- !private ">"
+- !private "??"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CastingPrecedence"
+- "Client"
+- "ClientObserver"
+- "Color"
+- "Date"
+- "Double"
+- "Error"
+- "Float"
+- "FloatLiteralType"
+- !private "Group"
+- !private "HTTPKitError"
+- "Int"
+- !private "IntegerLiteralType"
+- "Light"
+- "LightTarget"
+- "LightTargetFilter"
+- "LightTargetObserver"
+- "LightTargetSelector"
+- !private "Location"
+- "Result"
+- !private "State"
+- "String"
+- !private "StringLiteralType"
+- "Void"
+- !private "atan2"
+- !private "cos"
+- !private "print"
+- !private "sin"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["s18AdditiveArithmeticP", "pi"]
+- !private ["Sa", "append"]
+- !private ["Sa", "contains"]
+- !private ["Sa", "count"]
+- !private ["Sa", "enumerated"]
+- !private ["Sa", "filter"]
+- !private ["Sa", "first"]
+- !private ["Sa", "index"]
+- !private ["Sa", "map"]
+- !private ["Sa", "reduce"]
+- !private ["Sa", "remove"]
+- !private ["Sa", "subscript"]
+- !private ["s10ArraySliceV", "name"]
+- !private ["s10ArraySliceV", "states"]
+- !private ["SK", "append"]
+- !private ["SK", "contains"]
+- !private ["SK", "count"]
+- !private ["SK", "enumerated"]
+- !private ["SK", "filter"]
+- !private ["SK", "first"]
+- !private ["SK", "index"]
+- !private ["SK", "map"]
+- !private ["SK", "name"]
+- !private ["SK", "reduce"]
+- !private ["SK", "remove"]
+- !private ["SK", "states"]
+- !private ["SK", "subscript"]
+- !private ["SB", "init"]
+- !private ["SB", "pi"]
+- !private ["Sz", "pi"]
+- !private ["12CoreGraphics7CGFloatV", "pi"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "contains"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "enumerated"]
+- !private ["s7CVarArgP", "filter"]
+- !private ["s7CVarArgP", "first"]
+- !private ["s7CVarArgP", "index"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "map"]
+- !private ["s7CVarArgP", "pi"]
+- !private ["s7CVarArgP", "reduce"]
+- !private ["s7CVarArgP", "remove"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["11LIFXHTTPKit6ClientC", "addObserver"]
+- !private ["11LIFXHTTPKit6ClientC", "lightTargetWithSelector"]
+- !private ["11LIFXHTTPKit6ClientC", "lights"]
+- !private ["11LIFXHTTPKit6ClientC", "removeObserver"]
+- !private ["11LIFXHTTPKit6ClientC", "scenes"]
+- !private ["11LIFXHTTPKit6ClientC", "session"]
+- !private ["11LIFXHTTPKit6ClientC", "updateLights"]
+- !private ["Sl", "append"]
+- !private ["Sl", "contains"]
+- !private ["Sl", "count"]
+- !private ["Sl", "enumerated"]
+- !private ["Sl", "filter"]
+- !private ["Sl", "first"]
+- !private ["Sl", "index"]
+- !private ["Sl", "map"]
+- !private ["Sl", "name"]
+- !private ["Sl", "reduce"]
+- !private ["Sl", "remove"]
+- !private ["Sl", "states"]
+- !private ["Sl", "subscript"]
+- !private ["11LIFXHTTPKit5ColorV", "defaultKelvin"]
+- !private ["11LIFXHTTPKit5ColorV", "deinit"]
+- !private ["11LIFXHTTPKit5ColorV", "hue"]
+- !private ["11LIFXHTTPKit5ColorV", "init"]
+- !private ["11LIFXHTTPKit5ColorV", "kelvin"]
+- !private ["11LIFXHTTPKit5ColorV", "maxHue"]
+- !private ["11LIFXHTTPKit5ColorV", "saturation"]
+- !private ["11LIFXHTTPKit5ColorV", "toQueryStringValue"]
+- !private ["SL", "init"]
+- !private ["SL", "pi"]
+- !private ["SL", "timeIntervalSince"]
+- !private ["10Foundation15ContiguousBytesP", "append"]
+- !private ["10Foundation15ContiguousBytesP", "contains"]
+- !private ["10Foundation15ContiguousBytesP", "count"]
+- !private ["10Foundation15ContiguousBytesP", "enumerated"]
+- !private ["10Foundation15ContiguousBytesP", "filter"]
+- !private ["10Foundation15ContiguousBytesP", "first"]
+- !private ["10Foundation15ContiguousBytesP", "index"]
+- !private ["10Foundation15ContiguousBytesP", "map"]
+- !private ["10Foundation15ContiguousBytesP", "name"]
+- !private ["10Foundation15ContiguousBytesP", "reduce"]
+- !private ["10Foundation15ContiguousBytesP", "remove"]
+- !private ["10Foundation15ContiguousBytesP", "states"]
+- !private ["10Foundation15ContiguousBytesP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "contains"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "enumerated"]
+- !private ["s28CustomDebugStringConvertibleP", "filter"]
+- !private ["s28CustomDebugStringConvertibleP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "index"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "name"]
+- !private ["s28CustomDebugStringConvertibleP", "pi"]
+- !private ["s28CustomDebugStringConvertibleP", "reduce"]
+- !private ["s28CustomDebugStringConvertibleP", "remove"]
+- !private ["s28CustomDebugStringConvertibleP", "states"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "timeIntervalSince"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "contains"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "enumerated"]
+- !private ["s17CustomReflectableP", "filter"]
+- !private ["s17CustomReflectableP", "first"]
+- !private ["s17CustomReflectableP", "index"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s17CustomReflectableP", "name"]
+- !private ["s17CustomReflectableP", "pi"]
+- !private ["s17CustomReflectableP", "reduce"]
+- !private ["s17CustomReflectableP", "remove"]
+- !private ["s17CustomReflectableP", "states"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "timeIntervalSince"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "brightness"]
+- !private ["s23CustomStringConvertibleP", "color"]
+- !private ["s23CustomStringConvertibleP", "connected"]
+- !private ["s23CustomStringConvertibleP", "contains"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "defaultKelvin"]
+- !private ["s23CustomStringConvertibleP", "enumerated"]
+- !private ["s23CustomStringConvertibleP", "filter"]
+- !private ["s23CustomStringConvertibleP", "first"]
+- !private ["s23CustomStringConvertibleP", "group"]
+- !private ["s23CustomStringConvertibleP", "hasColor"]
+- !private ["s23CustomStringConvertibleP", "hasIR"]
+- !private ["s23CustomStringConvertibleP", "hasMultiZone"]
+- !private ["s23CustomStringConvertibleP", "hue"]
+- !private ["s23CustomStringConvertibleP", "id"]
+- !private ["s23CustomStringConvertibleP", "index"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "kelvin"]
+- !private ["s23CustomStringConvertibleP", "label"]
+- !private ["s23CustomStringConvertibleP", "lightWithProperties"]
+- !private ["s23CustomStringConvertibleP", "location"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- !private ["s23CustomStringConvertibleP", "maxHue"]
+- !private ["s23CustomStringConvertibleP", "name"]
+- !private ["s23CustomStringConvertibleP", "pi"]
+- !private ["s23CustomStringConvertibleP", "power"]
+- !private ["s23CustomStringConvertibleP", "reduce"]
+- !private ["s23CustomStringConvertibleP", "remove"]
+- !private ["s23CustomStringConvertibleP", "saturation"]
+- !private ["s23CustomStringConvertibleP", "states"]
+- !private ["s23CustomStringConvertibleP", "status"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "timeIntervalSince"]
+- !private ["s23CustomStringConvertibleP", "toQueryStringValue"]
+- !private ["s23CustomStringConvertibleP", "toSelector"]
+- !private ["s23CustomStringConvertibleP", "touchedAt"]
+- !private ["s23CustomStringConvertibleP", "type"]
+- !private ["10Foundation12DataProtocolP", "append"]
+- !private ["10Foundation12DataProtocolP", "contains"]
+- !private ["10Foundation12DataProtocolP", "count"]
+- !private ["10Foundation12DataProtocolP", "enumerated"]
+- !private ["10Foundation12DataProtocolP", "filter"]
+- !private ["10Foundation12DataProtocolP", "first"]
+- !private ["10Foundation12DataProtocolP", "index"]
+- !private ["10Foundation12DataProtocolP", "map"]
+- !private ["10Foundation12DataProtocolP", "name"]
+- !private ["10Foundation12DataProtocolP", "reduce"]
+- !private ["10Foundation12DataProtocolP", "remove"]
+- !private ["10Foundation12DataProtocolP", "states"]
+- !private ["10Foundation12DataProtocolP", "subscript"]
+- !private ["10Foundation4DateV", "init"]
+- !private ["10Foundation4DateV", "timeIntervalSince"]
+- !private ["So9NSDecimala", "pi"]
+- !private ["Se", "append"]
+- !private ["Se", "contains"]
+- !private ["Se", "count"]
+- !private ["Se", "enumerated"]
+- !private ["Se", "filter"]
+- !private ["Se", "first"]
+- !private ["Se", "index"]
+- !private ["Se", "init"]
+- !private ["Se", "map"]
+- !private ["Se", "pi"]
+- !private ["Se", "reduce"]
+- !private ["Se", "remove"]
+- !private ["Se", "subscript"]
+- !private ["Se", "timeIntervalSince"]
+- !private ["Sd", "init"]
+- !private ["Sd", "pi"]
+- !private ["SE", "append"]
+- !private ["SE", "contains"]
+- !private ["SE", "count"]
+- !private ["SE", "enumerated"]
+- !private ["SE", "filter"]
+- !private ["SE", "first"]
+- !private ["SE", "index"]
+- !private ["SE", "init"]
+- !private ["SE", "map"]
+- !private ["SE", "pi"]
+- !private ["SE", "reduce"]
+- !private ["SE", "remove"]
+- !private ["SE", "subscript"]
+- !private ["SE", "timeIntervalSince"]
+- ["SQ", "All"]
+- ["SQ", "GroupID"]
+- ["SQ", "ID"]
+- ["SQ", "Label"]
+- ["SQ", "LocationID"]
+- !private ["SQ", "OK"]
+- !private ["SQ", "Offline"]
+- ["SQ", "SceneID"]
+- !private ["SQ", "TimedOut"]
+- !private ["SQ", "append"]
+- !private ["SQ", "brightness"]
+- !private ["SQ", "color"]
+- !private ["SQ", "connected"]
+- !private ["SQ", "contains"]
+- !private ["SQ", "count"]
+- !private ["SQ", "defaultKelvin"]
+- !private ["SQ", "enumerated"]
+- !private ["SQ", "filter"]
+- !private ["SQ", "first"]
+- !private ["SQ", "group"]
+- !private ["SQ", "hasColor"]
+- !private ["SQ", "hasIR"]
+- !private ["SQ", "hasMultiZone"]
+- !private ["SQ", "hue"]
+- !private ["SQ", "id"]
+- !private ["SQ", "index"]
+- !private ["SQ", "init"]
+- !private ["SQ", "kelvin"]
+- !private ["SQ", "label"]
+- !private ["SQ", "lightWithProperties"]
+- !private ["SQ", "location"]
+- !private ["SQ", "map"]
+- !private ["SQ", "maxHue"]
+- !private ["SQ", "name"]
+- !private ["SQ", "pi"]
+- !private ["SQ", "power"]
+- !private ["SQ", "reduce"]
+- !private ["SQ", "remove"]
+- !private ["SQ", "saturation"]
+- !private ["SQ", "selector"]
+- !private ["SQ", "states"]
+- !private ["SQ", "status"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "timeIntervalSince"]
+- !private ["SQ", "toQueryStringValue"]
+- !private ["SQ", "toSelector"]
+- !private ["SQ", "touchedAt"]
+- !private ["SQ", "type"]
+- !private ["SQ", "unacceptableSelector"]
+- !private ["s5ErrorP", "init"]
+- !private ["11LIFXHTTPKit9ErrorCodeO", "unacceptableSelector"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "contains"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "enumerated"]
+- !private ["s25ExpressibleByArrayLiteralP", "filter"]
+- !private ["s25ExpressibleByArrayLiteralP", "first"]
+- !private ["s25ExpressibleByArrayLiteralP", "index"]
+- !private ["s25ExpressibleByArrayLiteralP", "map"]
+- !private ["s25ExpressibleByArrayLiteralP", "name"]
+- !private ["s25ExpressibleByArrayLiteralP", "reduce"]
+- !private ["s25ExpressibleByArrayLiteralP", "remove"]
+- !private ["s25ExpressibleByArrayLiteralP", "states"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s25ExpressibleByFloatLiteralP", "pi"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "pi"]
+- !private ["s17FixedWidthIntegerP", "pi"]
+- !private ["Sf", "pi"]
+- !private ["s7Float80V", "pi"]
+- !private ["SF", "init"]
+- !private ["SF", "pi"]
+- !private ["11LIFXHTTPKit5GroupV", "deinit"]
+- !private ["11LIFXHTTPKit5GroupV", "name"]
+- !private ["11LIFXHTTPKit5GroupV", "toSelector"]
+- !private ["11LIFXHTTPKit12HTTPKitErrorV", "deinit"]
+- !private ["11LIFXHTTPKit12HTTPKitErrorV", "init"]
+- !private ["11LIFXHTTPKit11HTTPSessionC", "setLightsState"]
+- !private ["11LIFXHTTPKit11HTTPSessionC", "setScenesActivate"]
+- ["SH", "All"]
+- ["SH", "GroupID"]
+- ["SH", "ID"]
+- ["SH", "Label"]
+- ["SH", "LocationID"]
+- !private ["SH", "OK"]
+- !private ["SH", "Offline"]
+- ["SH", "SceneID"]
+- !private ["SH", "TimedOut"]
+- !private ["SH", "append"]
+- !private ["SH", "contains"]
+- !private ["SH", "count"]
+- !private ["SH", "enumerated"]
+- !private ["SH", "filter"]
+- !private ["SH", "first"]
+- !private ["SH", "index"]
+- !private ["SH", "init"]
+- !private ["SH", "map"]
+- !private ["SH", "name"]
+- !private ["SH", "pi"]
+- !private ["SH", "reduce"]
+- !private ["SH", "remove"]
+- !private ["SH", "states"]
+- !private ["SH", "subscript"]
+- !private ["SH", "timeIntervalSince"]
+- !private ["SH", "unacceptableSelector"]
+- !private ["Si", "pi"]
+- !private ["s5Int16V", "pi"]
+- !private ["s5Int32V", "pi"]
+- !private ["s5Int64V", "pi"]
+- !private ["s4Int8V", "pi"]
+- !private ["11LIFXHTTPKit5LightV", "brightness"]
+- !private ["11LIFXHTTPKit5LightV", "color"]
+- !private ["11LIFXHTTPKit5LightV", "connected"]
+- !private ["11LIFXHTTPKit5LightV", "group"]
+- !private ["11LIFXHTTPKit5LightV", "hasColor"]
+- !private ["11LIFXHTTPKit5LightV", "hasIR"]
+- !private ["11LIFXHTTPKit5LightV", "hasMultiZone"]
+- !private ["11LIFXHTTPKit5LightV", "id"]
+- !private ["11LIFXHTTPKit5LightV", "label"]
+- !private ["11LIFXHTTPKit5LightV", "lightWithProperties"]
+- !private ["11LIFXHTTPKit5LightV", "location"]
+- !private ["11LIFXHTTPKit5LightV", "power"]
+- !private ["11LIFXHTTPKit5LightV", "toSelector"]
+- !private ["11LIFXHTTPKit5LightV", "touchedAt"]
+- ["11LIFXHTTPKit11LightTargetC", "Bool"]
+- ["11LIFXHTTPKit11LightTargetC", "Client"]
+- ["11LIFXHTTPKit11LightTargetC", "ClientObserver"]
+- ["11LIFXHTTPKit11LightTargetC", "Color"]
+- ["11LIFXHTTPKit11LightTargetC", "Date"]
+- ["11LIFXHTTPKit11LightTargetC", "Double"]
+- ["11LIFXHTTPKit11LightTargetC", "Error"]
+- ["11LIFXHTTPKit11LightTargetC", "Float"]
+- !private ["11LIFXHTTPKit11LightTargetC", "Group"]
+- !private ["11LIFXHTTPKit11LightTargetC", "HTTPKitError"]
+- ["11LIFXHTTPKit11LightTargetC", "Int"]
+- ["11LIFXHTTPKit11LightTargetC", "Light"]
+- ["11LIFXHTTPKit11LightTargetC", "LightTarget"]
+- ["11LIFXHTTPKit11LightTargetC", "LightTargetFilter"]
+- ["11LIFXHTTPKit11LightTargetC", "LightTargetObserver"]
+- ["11LIFXHTTPKit11LightTargetC", "LightTargetSelector"]
+- !private ["11LIFXHTTPKit11LightTargetC", "Location"]
+- ["11LIFXHTTPKit11LightTargetC", "Result"]
+- !private ["11LIFXHTTPKit11LightTargetC", "State"]
+- ["11LIFXHTTPKit11LightTargetC", "String"]
+- ["11LIFXHTTPKit11LightTargetC", "Void"]
+- ["11LIFXHTTPKit11LightTargetC", "addObserver"]
+- !private ["11LIFXHTTPKit11LightTargetC", "atan2"]
+- ["11LIFXHTTPKit11LightTargetC", "brightness"]
+- !private ["11LIFXHTTPKit11LightTargetC", "client"]
+- !private ["11LIFXHTTPKit11LightTargetC", "clientObserver"]
+- ["11LIFXHTTPKit11LightTargetC", "color"]
+- ["11LIFXHTTPKit11LightTargetC", "connected"]
+- !private ["11LIFXHTTPKit11LightTargetC", "cos"]
+- ["11LIFXHTTPKit11LightTargetC", "count"]
+- ["11LIFXHTTPKit11LightTargetC", "defaultDuration"]
+- ["11LIFXHTTPKit11LightTargetC", "deinit"]
+- !private ["11LIFXHTTPKit11LightTargetC", "deriveBrightness"]
+- !private ["11LIFXHTTPKit11LightTargetC", "deriveColor"]
+- !private ["11LIFXHTTPKit11LightTargetC", "deriveConnected"]
+- !private ["11LIFXHTTPKit11LightTargetC", "deriveCount"]
+- !private ["11LIFXHTTPKit11LightTargetC", "deriveLabel"]
+- !private ["11LIFXHTTPKit11LightTargetC", "derivePower"]
+- !private ["11LIFXHTTPKit11LightTargetC", "deriveTouchedAt"]
+- !private ["11LIFXHTTPKit11LightTargetC", "dirtyCheck"]
+- !private ["11LIFXHTTPKit11LightTargetC", "filter"]
+- ["11LIFXHTTPKit11LightTargetC", "init"]
+- ["11LIFXHTTPKit11LightTargetC", "label"]
+- ["11LIFXHTTPKit11LightTargetC", "lights"]
+- !private ["11LIFXHTTPKit11LightTargetC", "lightsByDeterminingConnectivityWithResults"]
+- !private ["11LIFXHTTPKit11LightTargetC", "notifyObservers"]
+- !private ["11LIFXHTTPKit11LightTargetC", "observers"]
+- ["11LIFXHTTPKit11LightTargetC", "power"]
+- !private ["11LIFXHTTPKit11LightTargetC", "print"]
+- ["11LIFXHTTPKit11LightTargetC", "removeAllObservers"]
+- ["11LIFXHTTPKit11LightTargetC", "removeObserver"]
+- ["11LIFXHTTPKit11LightTargetC", "restoreState"]
+- ["11LIFXHTTPKit11LightTargetC", "selector"]
+- ["11LIFXHTTPKit11LightTargetC", "setBrightness"]
+- ["11LIFXHTTPKit11LightTargetC", "setColor"]
+- ["11LIFXHTTPKit11LightTargetC", "setPower"]
+- ["11LIFXHTTPKit11LightTargetC", "setState"]
+- !private ["11LIFXHTTPKit11LightTargetC", "sin"]
+- ["11LIFXHTTPKit11LightTargetC", "supportsColor"]
+- ["11LIFXHTTPKit11LightTargetC", "supportsIR"]
+- ["11LIFXHTTPKit11LightTargetC", "supportsMultiZone"]
+- ["11LIFXHTTPKit11LightTargetC", "toGroupTargets"]
+- ["11LIFXHTTPKit11LightTargetC", "toLightTargets"]
+- ["11LIFXHTTPKit11LightTargetC", "toLights"]
+- ["11LIFXHTTPKit11LightTargetC", "toLocationTargets"]
+- ["11LIFXHTTPKit11LightTargetC", "touchedAt"]
+- !private ["11LIFXHTTPKit11LightTargetC", "updateLights"]
+- ["11LIFXHTTPKit19LightTargetObserverC", "StateDidUpdate"]
+- !private ["11LIFXHTTPKit19LightTargetObserverC", "init"]
+- !private ["11LIFXHTTPKit19LightTargetObserverC", "stateDidUpdateHandler"]
+- !private ["11LIFXHTTPKit19LightTargetSelectorV", "init"]
+- !private ["11LIFXHTTPKit19LightTargetSelectorV", "toQueryStringValue"]
+- !private ["11LIFXHTTPKit19LightTargetSelectorV", "type"]
+- ["11LIFXHTTPKit23LightTargetSelectorTypeO", "All"]
+- ["11LIFXHTTPKit23LightTargetSelectorTypeO", "GroupID"]
+- ["11LIFXHTTPKit23LightTargetSelectorTypeO", "ID"]
+- ["11LIFXHTTPKit23LightTargetSelectorTypeO", "Label"]
+- ["11LIFXHTTPKit23LightTargetSelectorTypeO", "LocationID"]
+- ["11LIFXHTTPKit23LightTargetSelectorTypeO", "SceneID"]
+- !private ["11LIFXHTTPKit23LightTargetSelectorTypeO", "deinit"]
+- !private ["11LIFXHTTPKit8LocationV", "deinit"]
+- !private ["11LIFXHTTPKit8LocationV", "name"]
+- !private ["11LIFXHTTPKit8LocationV", "toSelector"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "pi"]
+- !private ["s10MirrorPathP", "pi"]
+- !private ["SM", "append"]
+- !private ["SM", "contains"]
+- !private ["SM", "count"]
+- !private ["SM", "enumerated"]
+- !private ["SM", "filter"]
+- !private ["SM", "first"]
+- !private ["SM", "index"]
+- !private ["SM", "map"]
+- !private ["SM", "name"]
+- !private ["SM", "reduce"]
+- !private ["SM", "remove"]
+- !private ["SM", "states"]
+- !private ["SM", "subscript"]
+- !private ["10Foundation19MutableDataProtocolP", "append"]
+- !private ["10Foundation19MutableDataProtocolP", "contains"]
+- !private ["10Foundation19MutableDataProtocolP", "count"]
+- !private ["10Foundation19MutableDataProtocolP", "enumerated"]
+- !private ["10Foundation19MutableDataProtocolP", "filter"]
+- !private ["10Foundation19MutableDataProtocolP", "first"]
+- !private ["10Foundation19MutableDataProtocolP", "index"]
+- !private ["10Foundation19MutableDataProtocolP", "map"]
+- !private ["10Foundation19MutableDataProtocolP", "reduce"]
+- !private ["10Foundation19MutableDataProtocolP", "remove"]
+- !private ["10Foundation19MutableDataProtocolP", "subscript"]
+- !private ["Sj", "init"]
+- !private ["Sj", "pi"]
+- !private ["Sk", "append"]
+- !private ["Sk", "contains"]
+- !private ["Sk", "count"]
+- !private ["Sk", "enumerated"]
+- !private ["Sk", "filter"]
+- !private ["Sk", "first"]
+- !private ["Sk", "index"]
+- !private ["Sk", "map"]
+- !private ["Sk", "name"]
+- !private ["Sk", "reduce"]
+- !private ["Sk", "remove"]
+- !private ["Sk", "states"]
+- !private ["Sk", "subscript"]
+- !private ["Sm", "append"]
+- !private ["Sm", "contains"]
+- !private ["Sm", "count"]
+- !private ["Sm", "enumerated"]
+- !private ["Sm", "filter"]
+- !private ["Sm", "first"]
+- !private ["Sm", "index"]
+- !private ["Sm", "map"]
+- !private ["Sm", "name"]
+- !private ["Sm", "reduce"]
+- !private ["Sm", "remove"]
+- !private ["Sm", "states"]
+- !private ["Sm", "subscript"]
+- ["SY", "All"]
+- ["SY", "GroupID"]
+- ["SY", "ID"]
+- ["SY", "Label"]
+- ["SY", "LocationID"]
+- !private ["SY", "OK"]
+- !private ["SY", "Offline"]
+- ["SY", "SceneID"]
+- !private ["SY", "TimedOut"]
+- !private ["SY", "unacceptableSelector"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "timeIntervalSince"]
+- !private ["11LIFXHTTPKit6ResultV", "id"]
+- !private ["11LIFXHTTPKit6ResultV", "status"]
+- !private ["s10SIMDScalarP", "init"]
+- !private ["s10SIMDScalarP", "pi"]
+- !private ["11LIFXHTTPKit5SceneV", "name"]
+- !private ["11LIFXHTTPKit5SceneV", "states"]
+- !private ["11LIFXHTTPKit5SceneV", "toSelector"]
+- !private ["7Combine32SchedulerTimeIntervalConvertibleP", "pi"]
+- !private ["ST", "append"]
+- !private ["ST", "contains"]
+- !private ["ST", "count"]
+- !private ["ST", "enumerated"]
+- !private ["ST", "filter"]
+- !private ["ST", "first"]
+- !private ["ST", "index"]
+- !private ["ST", "map"]
+- !private ["ST", "name"]
+- !private ["ST", "reduce"]
+- !private ["ST", "remove"]
+- !private ["ST", "states"]
+- !private ["ST", "subscript"]
+- !private ["SZ", "pi"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["s13SignedNumericP", "pi"]
+- !private ["11LIFXHTTPKit5StateV", "brightness"]
+- !private ["11LIFXHTTPKit5StateV", "color"]
+- !private ["11LIFXHTTPKit5StateV", "power"]
+- !private ["11LIFXHTTPKit5StateV", "selector"]
+- !private ["11LIFXHTTPKit6ResultV6StatusO", "OK"]
+- !private ["11LIFXHTTPKit6ResultV6StatusO", "Offline"]
+- !private ["11LIFXHTTPKit6ResultV6StatusO", "TimedOut"]
+- !private ["So16NSOperationQueueC10FoundationE17SchedulerTimeTypeV6StrideV", "pi"]
+- !private ["So17OS_dispatch_queueC8DispatchE17SchedulerTimeTypeV6StrideV", "pi"]
+- !private ["So9NSRunLoopC10FoundationE17SchedulerTimeTypeV6StrideV", "pi"]
+- !private ["Sx", "init"]
+- !private ["Sx", "pi"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "pi"]
+- !private ["Su", "pi"]
+- !private ["s6UInt16V", "pi"]
+- !private ["s6UInt32V", "pi"]
+- !private ["s6UInt64V", "pi"]
+- !private ["s5UInt8V", "pi"]
+- !private ["SU", "pi"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "contains"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s14_ArrayProtocolP", "enumerated"]
+- !private ["s14_ArrayProtocolP", "filter"]
+- !private ["s14_ArrayProtocolP", "first"]
+- !private ["s14_ArrayProtocolP", "index"]
+- !private ["s14_ArrayProtocolP", "map"]
+- !private ["s14_ArrayProtocolP", "name"]
+- !private ["s14_ArrayProtocolP", "reduce"]
+- !private ["s14_ArrayProtocolP", "remove"]
+- !private ["s14_ArrayProtocolP", "states"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s15_CVarArgAlignedP", "pi"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "pi"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "pi"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "timeIntervalSince"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "contains"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "enumerated"]
+- !private ["s24_DestructorSafeContainerP", "filter"]
+- !private ["s24_DestructorSafeContainerP", "first"]
+- !private ["s24_DestructorSafeContainerP", "index"]
+- !private ["s24_DestructorSafeContainerP", "map"]
+- !private ["s24_DestructorSafeContainerP", "name"]
+- !private ["s24_DestructorSafeContainerP", "reduce"]
+- !private ["s24_DestructorSafeContainerP", "remove"]
+- !private ["s24_DestructorSafeContainerP", "states"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "pi"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "pi"]
+- !private ["s19_HasContiguousBytesP", "append"]
+- !private ["s19_HasContiguousBytesP", "contains"]
+- !private ["s19_HasContiguousBytesP", "count"]
+- !private ["s19_HasContiguousBytesP", "enumerated"]
+- !private ["s19_HasContiguousBytesP", "filter"]
+- !private ["s19_HasContiguousBytesP", "first"]
+- !private ["s19_HasContiguousBytesP", "index"]
+- !private ["s19_HasContiguousBytesP", "map"]
+- !private ["s19_HasContiguousBytesP", "reduce"]
+- !private ["s19_HasContiguousBytesP", "remove"]
+- !private ["s19_HasContiguousBytesP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "contains"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "enumerated"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "filter"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "first"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "index"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "map"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "pi"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "reduce"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "remove"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "contains"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "enumerated"]
+- !private ["s21_ObjectiveCBridgeableP", "filter"]
+- !private ["s21_ObjectiveCBridgeableP", "first"]
+- !private ["s21_ObjectiveCBridgeableP", "index"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "map"]
+- !private ["s21_ObjectiveCBridgeableP", "pi"]
+- !private ["s21_ObjectiveCBridgeableP", "reduce"]
+- !private ["s21_ObjectiveCBridgeableP", "remove"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "timeIntervalSince"]
+- !private ["s14_StringElementP", "pi"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "Sa"
+- !private "s10ArraySliceV"
+- !private "SK"
+- !private "SB"
+- !private "Sz"
+- !private "12CoreGraphics7CGFloatV"
+- !private "s7CVarArgP"
+- !private "11LIFXHTTPKit6ClientC"
+- !private "Sl"
+- !private "11LIFXHTTPKit5ColorV"
+- !private "SL"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "10Foundation4DateV"
+- !private "So9NSDecimala"
+- !private "Se"
+- !private "Sd"
+- !private "SE"
+- "SQ"
+- !private "s5ErrorP"
+- !private "11LIFXHTTPKit9ErrorCodeO"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s17FixedWidthIntegerP"
+- !private "Sf"
+- !private "s7Float80V"
+- !private "SF"
+- !private "11LIFXHTTPKit5GroupV"
+- !private "11LIFXHTTPKit12HTTPKitErrorV"
+- !private "11LIFXHTTPKit11HTTPSessionC"
+- "SH"
+- !private "Si"
+- !private "s5Int16V"
+- !private "s5Int32V"
+- !private "s5Int64V"
+- !private "s4Int8V"
+- !private "11LIFXHTTPKit5LightV"
+- "11LIFXHTTPKit11LightTargetC"
+- "11LIFXHTTPKit19LightTargetObserverC"
+- !private "11LIFXHTTPKit19LightTargetSelectorV"
+- "11LIFXHTTPKit23LightTargetSelectorTypeO"
+- !private "11LIFXHTTPKit8LocationV"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "Sj"
+- !private "Sk"
+- !private "Sm"
+- "SY"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "11LIFXHTTPKit6ResultV"
+- !private "s10SIMDScalarP"
+- !private "11LIFXHTTPKit5SceneV"
+- !private "7Combine32SchedulerTimeIntervalConvertibleP"
+- !private "ST"
+- !private "SZ"
+- !private "s13SignedNumericP"
+- !private "11LIFXHTTPKit5StateV"
+- !private "11LIFXHTTPKit6ResultV6StatusO"
+- !private "So16NSOperationQueueC10FoundationE17SchedulerTimeTypeV6StrideV"
+- !private "So17OS_dispatch_queueC8DispatchE17SchedulerTimeTypeV6StrideV"
+- !private "So9NSRunLoopC10FoundationE17SchedulerTimeTypeV6StrideV"
+- !private "Sx"
+- !private "s20TextOutputStreamableP"
+- !private "Su"
+- !private "s6UInt16V"
+- !private "s6UInt32V"
+- !private "s6UInt64V"
+- !private "s5UInt8V"
+- !private "SU"
+- !private "s14_ArrayProtocolP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s14_StringElementP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/XPC.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/ObjectiveC.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Dispatch.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Darwin.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Foundation.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/CoreFoundation.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/CoreGraphics.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Swift.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/IOKit.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/SwiftOnoneSupport.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Combine.framework/Modules/Combine.swiftmodule/x86_64-apple-macos.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "8ae2b5a0a3b8c23c5b97de0e5a1d7eb1"

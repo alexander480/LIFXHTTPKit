@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "32e778803a3ff4d46719f73825e49db1"
+build_time: [1584763664, 703208000]
+inputs:
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/Client.swift": [1584763274, 196016197]
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/ClientObserver.swift": [1584763274, 196333580]
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/Color.swift": [1584763274, 196513549]
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/Errors.swift": [1584763274, 196742504]
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/Group.swift": [1584763274, 196920706]
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/HTTPOperation.swift": [1584763274, 197080018]
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/HTTPSession.swift": !dirty [1584763274, 197255242]
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/Light.swift": !dirty [1584763274, 197694527]
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/LightTarget.swift": [1584763274, 197907389]
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/LightTargetObserver.swift": [1584763274, 198047552]
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/LightTargetSelector.swift": !dirty [1584763274, 198204766]
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/Location.swift": !dirty [1584763274, 198341268]
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/ProductInformation.swift": [1584763274, 198487760]
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/Result.swift": [1584763274, 198633075]
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/Scene.swift": [1584763274, 198764618]
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/State.swift": [1584763274, 198890945]

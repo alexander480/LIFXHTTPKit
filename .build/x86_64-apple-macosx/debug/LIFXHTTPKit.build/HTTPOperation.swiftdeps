@@ -1,0 +1,299 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "HTTPOperationState"
+- "HTTPOperation"
+provides-nominal:
+- "11LIFXHTTPKit18HTTPOperationStateC"
+- "11LIFXHTTPKit13HTTPOperationC"
+provides-member:
+- ["11LIFXHTTPKit18HTTPOperationStateC", ""]
+- ["11LIFXHTTPKit13HTTPOperationC", ""]
+provides-dynamic-lookup:
+- "cancel"
+- "isAsynchronous"
+- "isCancelled"
+- "isExecuting"
+- "isFinished"
+- "start"
+depends-top-level:
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- !private "CastingPrecedence"
+- "Data"
+- "DispatchQueue"
+- "Error"
+- !private "FloatLiteralType"
+- "Foundation"
+- "HTTPOperation"
+- "HTTPOperationState"
+- !private "IntegerLiteralType"
+- !private "NSError"
+- "Operation"
+- !private "StringLiteralType"
+- "URLRequest"
+- "URLResponse"
+- "URLSessionDataTask"
+- "Void"
+depends-member:
+- !private ["s7CVarArgP", "HTTPOperationState"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "async"]
+- !private ["s7CVarArgP", "cancel"]
+- !private ["s7CVarArgP", "dataTask"]
+- !private ["s7CVarArgP", "delegateQueue"]
+- !private ["s7CVarArgP", "didChangeValue"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isCancelled"]
+- !private ["s7CVarArgP", "isExecuting"]
+- !private ["s7CVarArgP", "isFinished"]
+- !private ["s7CVarArgP", "resume"]
+- !private ["s7CVarArgP", "state"]
+- !private ["s7CVarArgP", "task"]
+- !private ["s7CVarArgP", "willChangeValue"]
+- !private ["s28CustomDebugStringConvertibleP", "HTTPOperationState"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "async"]
+- !private ["s28CustomDebugStringConvertibleP", "cancel"]
+- !private ["s28CustomDebugStringConvertibleP", "dataTask"]
+- !private ["s28CustomDebugStringConvertibleP", "delegateQueue"]
+- !private ["s28CustomDebugStringConvertibleP", "didChangeValue"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isCancelled"]
+- !private ["s28CustomDebugStringConvertibleP", "isExecuting"]
+- !private ["s28CustomDebugStringConvertibleP", "isFinished"]
+- !private ["s28CustomDebugStringConvertibleP", "resume"]
+- !private ["s28CustomDebugStringConvertibleP", "state"]
+- !private ["s28CustomDebugStringConvertibleP", "task"]
+- !private ["s28CustomDebugStringConvertibleP", "willChangeValue"]
+- !private ["s23CustomStringConvertibleP", "HTTPOperationState"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "async"]
+- !private ["s23CustomStringConvertibleP", "cancel"]
+- !private ["s23CustomStringConvertibleP", "dataTask"]
+- !private ["s23CustomStringConvertibleP", "delegateQueue"]
+- !private ["s23CustomStringConvertibleP", "didChangeValue"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isCancelled"]
+- !private ["s23CustomStringConvertibleP", "isExecuting"]
+- !private ["s23CustomStringConvertibleP", "isFinished"]
+- !private ["s23CustomStringConvertibleP", "resume"]
+- !private ["s23CustomStringConvertibleP", "state"]
+- !private ["s23CustomStringConvertibleP", "task"]
+- !private ["s23CustomStringConvertibleP", "willChangeValue"]
+- !private ["So18OS_dispatch_objectC", "async"]
+- !private ["So17OS_dispatch_queueC", "async"]
+- !private ["SQ", "HTTPOperationState"]
+- ["SQ", ""]
+- !private ["SQ", "async"]
+- !private ["SQ", "cancel"]
+- !private ["SQ", "dataTask"]
+- !private ["SQ", "delegateQueue"]
+- !private ["SQ", "didChangeValue"]
+- !private ["SQ", "init"]
+- !private ["SQ", "isCancelled"]
+- !private ["SQ", "isExecuting"]
+- !private ["SQ", "isFinished"]
+- !private ["SQ", "resume"]
+- !private ["SQ", "state"]
+- !private ["SQ", "task"]
+- !private ["SQ", "willChangeValue"]
+- ["11LIFXHTTPKit13HTTPOperationC", "Bool"]
+- ["11LIFXHTTPKit13HTTPOperationC", "Data"]
+- ["11LIFXHTTPKit13HTTPOperationC", "DispatchQueue"]
+- ["11LIFXHTTPKit13HTTPOperationC", "Error"]
+- ["11LIFXHTTPKit13HTTPOperationC", "Foundation"]
+- ["11LIFXHTTPKit13HTTPOperationC", "HTTPOperationState"]
+- !private ["11LIFXHTTPKit13HTTPOperationC", "NSError"]
+- ["11LIFXHTTPKit13HTTPOperationC", "URLRequest"]
+- ["11LIFXHTTPKit13HTTPOperationC", "URLResponse"]
+- ["11LIFXHTTPKit13HTTPOperationC", "URLSessionDataTask"]
+- ["11LIFXHTTPKit13HTTPOperationC", "Void"]
+- ["11LIFXHTTPKit13HTTPOperationC", "cancel"]
+- ["11LIFXHTTPKit13HTTPOperationC", "deinit"]
+- !private ["11LIFXHTTPKit13HTTPOperationC", "delegateQueue"]
+- !private ["11LIFXHTTPKit13HTTPOperationC", "didChangeValue"]
+- ["11LIFXHTTPKit13HTTPOperationC", "init"]
+- ["11LIFXHTTPKit13HTTPOperationC", "isAsynchronous"]
+- ["11LIFXHTTPKit13HTTPOperationC", "isCancelled"]
+- ["11LIFXHTTPKit13HTTPOperationC", "isExecuting"]
+- ["11LIFXHTTPKit13HTTPOperationC", "isFinished"]
+- ["11LIFXHTTPKit13HTTPOperationC", "start"]
+- !private ["11LIFXHTTPKit13HTTPOperationC", "state"]
+- !private ["11LIFXHTTPKit13HTTPOperationC", "task"]
+- !private ["11LIFXHTTPKit13HTTPOperationC", "willChangeValue"]
+- ["11LIFXHTTPKit18HTTPOperationStateC", "Bool"]
+- ["11LIFXHTTPKit18HTTPOperationStateC", "cancelled"]
+- ["11LIFXHTTPKit18HTTPOperationStateC", "executing"]
+- ["11LIFXHTTPKit18HTTPOperationStateC", "finished"]
+- ["11LIFXHTTPKit18HTTPOperationStateC", "init"]
+- !private ["SH", "HTTPOperationState"]
+- ["SH", ""]
+- !private ["SH", "async"]
+- !private ["SH", "cancel"]
+- !private ["SH", "dataTask"]
+- !private ["SH", "delegateQueue"]
+- !private ["SH", "didChangeValue"]
+- !private ["SH", "init"]
+- !private ["SH", "isCancelled"]
+- !private ["SH", "isExecuting"]
+- !private ["SH", "isFinished"]
+- !private ["SH", "resume"]
+- !private ["SH", "state"]
+- !private ["SH", "task"]
+- !private ["SH", "willChangeValue"]
+- !private ["So9NSCopyingP", "cancel"]
+- !private ["So9NSCopyingP", "resume"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "Data"]
+- ["So8NSObjectC", "DispatchQueue"]
+- ["So8NSObjectC", "Error"]
+- ["So8NSObjectC", "Foundation"]
+- ["So8NSObjectC", "HTTPOperationState"]
+- !private ["So8NSObjectC", "NSError"]
+- ["So8NSObjectC", "URLRequest"]
+- ["So8NSObjectC", "URLResponse"]
+- ["So8NSObjectC", "URLSessionDataTask"]
+- ["So8NSObjectC", "Void"]
+- !private ["So8NSObjectC", "async"]
+- ["So8NSObjectC", "cancel"]
+- !private ["So8NSObjectC", "dataTask"]
+- ["So8NSObjectC", "delegateQueue"]
+- !private ["So8NSObjectC", "didChangeValue"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "isAsynchronous"]
+- ["So8NSObjectC", "isCancelled"]
+- ["So8NSObjectC", "isExecuting"]
+- ["So8NSObjectC", "isFinished"]
+- !private ["So8NSObjectC", "resume"]
+- ["So8NSObjectC", "start"]
+- ["So8NSObjectC", "state"]
+- ["So8NSObjectC", "task"]
+- !private ["So8NSObjectC", "willChangeValue"]
+- !private ["So8NSObjectP", "HTTPOperationState"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "async"]
+- !private ["So8NSObjectP", "cancel"]
+- !private ["So8NSObjectP", "dataTask"]
+- !private ["So8NSObjectP", "delegateQueue"]
+- !private ["So8NSObjectP", "didChangeValue"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "isCancelled"]
+- !private ["So8NSObjectP", "isExecuting"]
+- !private ["So8NSObjectP", "isFinished"]
+- !private ["So8NSObjectP", "resume"]
+- !private ["So8NSObjectP", "state"]
+- !private ["So8NSObjectP", "task"]
+- !private ["So8NSObjectP", "willChangeValue"]
+- !private ["So9OS_objectC", "async"]
+- ["So11NSOperationC", "Bool"]
+- ["So11NSOperationC", "Data"]
+- ["So11NSOperationC", "DispatchQueue"]
+- ["So11NSOperationC", "Error"]
+- ["So11NSOperationC", "Foundation"]
+- ["So11NSOperationC", "HTTPOperationState"]
+- !private ["So11NSOperationC", "NSError"]
+- ["So11NSOperationC", "URLRequest"]
+- ["So11NSOperationC", "URLResponse"]
+- ["So11NSOperationC", "URLSessionDataTask"]
+- ["So11NSOperationC", "Void"]
+- ["So11NSOperationC", ""]
+- ["So11NSOperationC", "cancel"]
+- ["So11NSOperationC", "delegateQueue"]
+- !private ["So11NSOperationC", "didChangeValue"]
+- ["So11NSOperationC", "init"]
+- ["So11NSOperationC", "isAsynchronous"]
+- ["So11NSOperationC", "isCancelled"]
+- ["So11NSOperationC", "isExecuting"]
+- ["So11NSOperationC", "isFinished"]
+- ["So11NSOperationC", "start"]
+- ["So11NSOperationC", "state"]
+- ["So11NSOperationC", "task"]
+- !private ["So11NSOperationC", "willChangeValue"]
+- !private ["So19NSProgressReportingP", "cancel"]
+- !private ["So19NSProgressReportingP", "resume"]
+- !private ["7Combine9SchedulerP", "async"]
+- !private ["So12NSURLSessionC", "dataTask"]
+- !private ["So20NSURLSessionDataTaskC", "cancel"]
+- !private ["So20NSURLSessionDataTaskC", "resume"]
+- !private ["So16NSURLSessionTaskC", "cancel"]
+- !private ["So16NSURLSessionTaskC", "resume"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "HTTPOperationState"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "async"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cancel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dataTask"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegateQueue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didChangeValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isCancelled"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isExecuting"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isFinished"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "resume"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "state"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "task"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "willChangeValue"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "HTTPOperationState"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "async"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "cancel"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "dataTask"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "delegateQueue"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "didChangeValue"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isCancelled"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isExecuting"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isFinished"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "resume"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "state"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "task"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "willChangeValue"]
+depends-nominal:
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- !private "So18OS_dispatch_objectC"
+- !private "So17OS_dispatch_queueC"
+- "SQ"
+- "11LIFXHTTPKit13HTTPOperationC"
+- "11LIFXHTTPKit18HTTPOperationStateC"
+- "SH"
+- !private "So9NSCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So9OS_objectC"
+- "So11NSOperationC"
+- !private "So19NSProgressReportingP"
+- !private "7Combine9SchedulerP"
+- !private "So12NSURLSessionC"
+- !private "So20NSURLSessionDataTaskC"
+- !private "So16NSURLSessionTaskC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/XPC.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/ObjectiveC.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Dispatch.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Darwin.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Foundation.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/CoreFoundation.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/CoreGraphics.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Swift.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/IOKit.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/SwiftOnoneSupport.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Combine.framework/Modules/Combine.swiftmodule/x86_64-apple-macos.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "c3f0fd45215a2d6697051fe7410812e5"

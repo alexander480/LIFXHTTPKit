@@ -1,0 +1,101 @@
+{
+  "": {
+    "swift-dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/master.swiftdeps"
+  },
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/Client.swift": {
+    "dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Client.d",
+    "object": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Client.swift.o",
+    "swiftmodule": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Client~partial.swiftmodule",
+    "swift-dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Client.swiftdeps"
+  },
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/ClientObserver.swift": {
+    "dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/ClientObserver.d",
+    "object": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/ClientObserver.swift.o",
+    "swiftmodule": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/ClientObserver~partial.swiftmodule",
+    "swift-dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/ClientObserver.swiftdeps"
+  },
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/Color.swift": {
+    "dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Color.d",
+    "object": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Color.swift.o",
+    "swiftmodule": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Color~partial.swiftmodule",
+    "swift-dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Color.swiftdeps"
+  },
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/Errors.swift": {
+    "dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Errors.d",
+    "object": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Errors.swift.o",
+    "swiftmodule": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Errors~partial.swiftmodule",
+    "swift-dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Errors.swiftdeps"
+  },
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/Group.swift": {
+    "dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Group.d",
+    "object": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Group.swift.o",
+    "swiftmodule": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Group~partial.swiftmodule",
+    "swift-dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Group.swiftdeps"
+  },
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/HTTPOperation.swift": {
+    "dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/HTTPOperation.d",
+    "object": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/HTTPOperation.swift.o",
+    "swiftmodule": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/HTTPOperation~partial.swiftmodule",
+    "swift-dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/HTTPOperation.swiftdeps"
+  },
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/HTTPSession.swift": {
+    "dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/HTTPSession.d",
+    "object": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/HTTPSession.swift.o",
+    "swiftmodule": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/HTTPSession~partial.swiftmodule",
+    "swift-dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/HTTPSession.swiftdeps"
+  },
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/Light.swift": {
+    "dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Light.d",
+    "object": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Light.swift.o",
+    "swiftmodule": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Light~partial.swiftmodule",
+    "swift-dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Light.swiftdeps"
+  },
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/LightTarget.swift": {
+    "dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/LightTarget.d",
+    "object": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/LightTarget.swift.o",
+    "swiftmodule": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/LightTarget~partial.swiftmodule",
+    "swift-dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/LightTarget.swiftdeps"
+  },
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/LightTargetObserver.swift": {
+    "dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/LightTargetObserver.d",
+    "object": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/LightTargetObserver.swift.o",
+    "swiftmodule": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/LightTargetObserver~partial.swiftmodule",
+    "swift-dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/LightTargetObserver.swiftdeps"
+  },
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/LightTargetSelector.swift": {
+    "dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/LightTargetSelector.d",
+    "object": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/LightTargetSelector.swift.o",
+    "swiftmodule": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/LightTargetSelector~partial.swiftmodule",
+    "swift-dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/LightTargetSelector.swiftdeps"
+  },
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/Location.swift": {
+    "dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Location.d",
+    "object": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Location.swift.o",
+    "swiftmodule": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Location~partial.swiftmodule",
+    "swift-dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Location.swiftdeps"
+  },
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/ProductInformation.swift": {
+    "dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/ProductInformation.d",
+    "object": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/ProductInformation.swift.o",
+    "swiftmodule": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/ProductInformation~partial.swiftmodule",
+    "swift-dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/ProductInformation.swiftdeps"
+  },
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/Result.swift": {
+    "dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Result.d",
+    "object": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Result.swift.o",
+    "swiftmodule": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Result~partial.swiftmodule",
+    "swift-dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Result.swiftdeps"
+  },
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/Scene.swift": {
+    "dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Scene.d",
+    "object": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Scene.swift.o",
+    "swiftmodule": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Scene~partial.swiftmodule",
+    "swift-dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/Scene.swiftdeps"
+  },
+  "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/Sources/LIFXHTTPKit/State.swift": {
+    "dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/State.d",
+    "object": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/State.swift.o",
+    "swiftmodule": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/State~partial.swiftmodule",
+    "swift-dependencies": "/Users/awllwa/Library/Mobile Documents/com~apple~CloudDocs/Code/Github/LIFXHTTPKit/.build/x86_64-apple-macosx/debug/LIFXHTTPKit.build/State.swiftdeps"
+  }
+}
